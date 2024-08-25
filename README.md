@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @WolverineGamer
-- 👀 I’m interested in ... Making New Games
-- 🌱 I’m currently learning . . . How to use JavaScript correctly
-- 💞️ I’m looking to collaborate on ... Youtube to become a famous Youtuber
-- 📫 How to reach me ... from my email which is ytbmastergamerbat@gmail.com or nintendosmashflash@gmail.com
+- 👋 Hi everybody, I’m @WolverineGamer
+- 👀 From here on out, I will be making games and codings.
+- 🌱 I’m currently learning how to use JavaScript correctly at the moment though
+- 💞️ I’m looking forward for my projects to be viewed and played by all
+- 📫 If you need to contact me, feel free to message me by my email which is vexhubstudios@gmail.com
+- Thanks ✨
 
 <!---
 WolverineGamer/WolverineGamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
